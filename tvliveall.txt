@@ -131,31 +131,80 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
-海外新闻,#genre#
-CNN美国有线电视新闻网,https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-ABC美国广播公司1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-ABC美国广播公司6,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-BBC英国广播公司,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-NHK日本放送协会,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-Prudent Media,https://prudentmcdn.rixcast.com/prudentm.m3u8
-Relevant TV,https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
-Roya News,https://roya-live.ercdn.net/royanews/royanews.m3u8
-RT France,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+海外,#genre#
+日-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+美-NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+韩-BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u
+韩-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+台-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
+Sky News,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+伊拉克zagros,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+希腊High TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+美国ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+德国kulturMD,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 
-宗教电台,#genre#
-Hope Channel Bulgaria,https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-纪录片,#genre#
-Asharq Discovery,https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-Asharq Documentary,https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-CS History,https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
-RT Documentary English,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-娱乐频道,#genre#
-¡OPA!,https://opa.usastreams.com:3101/live/canalopalive.m3u8
-EBS HD,https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-CS Mystery,https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
-Guaro TV,https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
-HTV Live,https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+风景区,#genre#
+新寨咖啡-云南保山,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+方城德云山景区,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+张家界御笔峰,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+泰山天街,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+成都安顺廊桥,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+昆明寻甸城区,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+红河建水双龙桥,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+西安阎良关山石川河风景区,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+南京玄武湖,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+重庆李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+舟山东极岛远眺东海,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+乌镇白莲塔,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+安徽西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+平顶山尧山风景区,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+西安长安三河水库,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+红河月亮小镇,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+巫山长江大桥,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+徐州之夜,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+全国风景总览,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+青岛艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+上海顾村公园,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+南平武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+西双版纳前年古寨曼丢,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+大理无量山樱花谷,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+中卫沙坡头,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+哈尔滨霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+西藏山南浪卡子县鲁日拉观景台,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+邵阳良山八角寨,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+黑龙江嘟噜河保护区,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+普洱无量山羊山瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+日喀则珠穆朗玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+邵阳良山将军石,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+普洱澜沧县景迈山,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+湘西州凤凰古城,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+南京,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+群山,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+宣城溪桃大桥,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+长沙田汉文化园,https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+大熊猫保护研究中心1,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+大熊猫保护研究中心2,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+大熊猫保护研究中心3,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+大熊猫保护研究中心4,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+大熊猫保护研究中心5,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+大熊猫保护研究中心6,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+大熊猫保护研究中心7,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+自然生态,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+茂密山林,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+大熊猫繁育研究基地,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+大熊猫保护研究中心8,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
