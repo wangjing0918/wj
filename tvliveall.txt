@@ -147,6 +147,10 @@ Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 希腊High TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 美国ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 德国kulturMD,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+土耳其360 TV SD,http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
+土耳其Power Turk,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+法国BIP TV,http://biptv.tv:80/live/biptvstream_orig/index.m3u8
+法国TV7,http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 
 
 风景区,#genre#
