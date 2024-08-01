@@ -134,6 +134,9 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 海外,#genre#
 日-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 美-NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+美-Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国ABC News,https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 韩-BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u
@@ -142,10 +145,8 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 台-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
 Sky News,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 伊拉克zagros,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 希腊High TV,http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-美国ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 德国kulturMD,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 土耳其360 TV SD,http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
 土耳其Power Turk,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
