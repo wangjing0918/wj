@@ -133,6 +133,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 海外,#genre#
 日-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+港-凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 美-NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 美-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 美-Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
