@@ -143,6 +143,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 韩-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u
 韩-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 台-中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
+台-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 台-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
