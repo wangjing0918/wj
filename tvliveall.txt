@@ -44,7 +44,13 @@ CCTV-5b 体育,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5c 体育,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 CCTV-5d 体育,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 CCTV-5e 体育,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403_dlna.m3u8
-CCTV-5+ 体育赛事,http://video.qd.sdu.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/index.m3u8
+CCTV5+a 体育赛事,https://cdn16.163189.xyz/163189/cctv5p
+CCTV5+b 体育赛事,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
+CCTV5+c 体育赛事,https://live.264788.xyz/channel/cctv5p?streamid=223e1dc8d7606f14f535ccfca40dd137&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV5+d 体育赛事,https://live.264788.xyz/channel/cctv5p?streamid=f8f1d72e30c98f67e9d9b7abe956d039&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV5+e 体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV5+f 体育赛事,http://116.233.103.91:3566/641886773
+CCTV5+g 体育赛事,http://119.51.239.247:5003/cctv5p.m3u8?token=&z=1f4e
 CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
@@ -55,7 +61,9 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-16a 奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV-16b 奥林匹克,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-16c 奥林匹克,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
