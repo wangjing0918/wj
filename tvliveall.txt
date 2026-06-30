@@ -35,10 +35,10 @@
 
 
 央视&卫视,#genre#
-CCTV-1 综合,http://101.132.26.106:3566/608807420
-CCTV-2 财经,http://101.132.26.106:3566/631780532
-CCTV-3 综艺,http://101.132.26.106:3566/624878271
-CCTV-4 中文国际,http://101.132.26.106:3566/631780421
+CCTV-1 综合,http://106.37.143.189:7788/608807420
+CCTV-2 财经,http://106.37.143.189:7788/631780532
+CCTV-3 综艺,http://106.37.143.189:7788/624878271
+CCTV-4 中文国际,http://106.37.143.189:7788/631780421
 CCTV-5a 体育,https://cdn16.163189.xyz/163189/cctv5
 CCTV-5b 体育,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5c 体育,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
@@ -51,45 +51,47 @@ CCTV5+d 体育赛事,https://live.264788.xyz/channel/cctv5p?streamid=f8f1d72e30c
 CCTV5+e 体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV5+f 体育赛事,http://116.233.103.91:3566/641886773
 CCTV5+g 体育赛事,http://119.51.239.247:5003/cctv5p.m3u8?token=&z=1f4e
-CCTV-6 电影,http://101.132.26.106:3566/624878396
-CCTV-7 国防军事,http://101.132.26.106:3566/673168121
-CCTV-8 电视剧,http://101.132.26.106:3566/624878356
-CCTV-9 纪录,http://101.132.26.106:3566/673168140
-CCTV-10 科教,http://101.132.26.106:3566/624878405
-CCTV-11 戏曲,http://101.132.26.106:3566/667987558
-CCTV-12 社会与法,http://101.132.26.106:3566/673168185
-CCTV-13 新闻,http://101.132.26.106:3566/608807423
-CCTV-14 少儿,http://101.132.26.106:3566/624878440
-CCTV-15 音乐,http://101.132.26.106:3566/673168223
+CCTV-6 电影,http://106.37.143.189:7788/624878396
+CCTV-7 国防军事,http://106.37.143.189:7788/673168121
+CCTV-8 电视剧,http://106.37.143.189:7788/624878356
+CCTV-9 纪录,http://106.37.143.189:7788/673168140
+CCTV-10 科教,http://106.37.143.189:7788/624878405
+CCTV-11 戏曲,http://106.37.143.189:7788/667987558
+CCTV-12 社会与法,http://106.37.143.189:7788/673168185
+CCTV-13 新闻,http://106.37.143.189:7788/608807423
+CCTV-14 少儿,http://106.37.143.189:7788/624878440
+CCTV-15 音乐,http://106.37.143.189:7788/673168223
 CCTV-16a 奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16b 奥林匹克,https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-16c 奥林匹克,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-17 农业农村,http://101.132.26.106:3566/673168256
-重庆卫视,http://101.132.26.106:3566/738910914
-广东卫视,http://101.132.26.106:3566/608831231
-北京卫视,http://101.132.26.106:3566/630287636
-东方卫视,http://101.132.26.106:3566/651632648
-上海新闻综合,http://101.132.26.106:3566/651632657
+CCTV-17 农业农村,http://106.37.143.189:7788/673168256
+重庆卫视,http://106.37.143.189:7788/738910914
+广东卫视,http://106.37.143.189:7788/608831231
+北京卫视,http://106.37.143.189:7788/630287636
+东方卫视,http://106.37.143.189:7788/651632648
+上海新闻综合,http://106.37.143.189:7788/651632657
 梨园频道,http://36.104.221.222:7788/961930369
 经典动画,http://36.104.221.222:7788/629942219
 中国教育电视台1,http://36.104.221.222:7788/923287154
 体坛名栏汇,http://36.104.221.222:7788/629943305
-江苏卫视,http://101.132.26.106:3566/623899368
-江西卫视,http://101.132.26.106:3566/783847495
-河北卫视,http://101.132.26.106:3566/962042070
-河南卫视,http://101.132.26.106:3566/790187291
+江苏卫视,http://106.37.143.189:7788/623899368
+江西卫视,http://106.37.143.189:7788/783847495
+河北卫视,http://106.37.143.189:7788/962042070
+河南卫视,http://106.37.143.189:7788/790187291
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-海南卫视,http://101.132.26.106:3566/947472502
-湖北卫视,http://101.132.26.106:3566/947472496
-东南卫视,http://101.132.26.106:3566/849116810
-辽宁卫视,http://101.132.26.106:3566/630291707
-宁夏卫视,http://101.132.26.106:3566/738910535
-陕西卫视,http://101.132.26.106:3566/738910838
-吉林卫视,http://101.132.26.106:3566/947472500
-三沙卫视,http://101.132.26.106:3566/961023778
-青海卫视,http://101.132.26.106:3566/947472506
-兵团卫视,http://101.132.26.106:3566/956923145
-大湾区卫视,http://101.132.26.106:3566/608917627
+海南卫视,http://106.37.143.189:7788/947472502
+湖北卫视,http://106.37.143.189:7788/947472496
+东南卫视,http://106.37.143.189:7788/849116810
+辽宁卫视,http://106.37.143.189:7788/630291707
+宁夏卫视,http://106.37.143.189:7788/738910535
+陕西卫视,http://106.37.143.189:7788/738910838
+吉林卫视,http://106.37.143.189:7788/947472500
+三沙卫视,http://106.37.143.189:7788/961023778
+青海卫视,http://106.37.143.189:7788/947472506
+兵团卫视,http://106.37.143.189:7788/956923145
+大湾区卫视,http://106.37.143.189:7788/608917627
+上海第一财经,http://106.37.143.189:7788/608780988
+南京新闻综合,http://106.37.143.189:7788/838109047
 
 海外,#genre#
 日-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -113,22 +115,21 @@ Sky News,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/
 
 
 风景区,#genre#
-新寨咖啡-云南保山,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
-方城德云山景区,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-张家界御笔峰,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
-泰山天街,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-成都安顺廊桥,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+直播中国1,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+沧州南大港湿地,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+盐城亭湖,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+吉林朱雀云顶,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+直播中国2,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
 昆明寻甸城区,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-红河建水双龙桥,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
 西安阎良关山石川河风景区,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
 南京玄武湖,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
-重庆李子坝,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+天山天池,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
 焦作红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
 舟山东极岛远眺东海,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
 乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
 乌镇白莲塔,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
 乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
-乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+天山天池,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
 安徽西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
 平顶山尧山风景区,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
