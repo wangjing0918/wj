@@ -96,25 +96,14 @@ CCTV-17 农业农村,http://113.120.243.155:7788/673168256
 黑龙江卫视,http://113.120.243.155:7788/738906901
 
 海外,#genre#
-日-全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-日-NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-港-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-港-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+港-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+港-凤凰卫视,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 新-新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 美-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-美-Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 韩-BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u
-韩-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-台-中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
-台-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 台-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-台-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
-Sky News,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-土耳其360 TV SD,http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
-
 
 风景区,#genre#
 直播中国1,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
