@@ -1011,6 +1011,19 @@
     "pv.vipwm.cc",
 	"static-mozai.4gtv.tv"
   ],
+"lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext="
+          ]
+        }
+      ]
+    }
+  ],
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
